@@ -24,9 +24,9 @@
 ### To get this project running:
 
 1. Make sure you have python compiler or anaconda distribution of python installed in your pc. 
-2. If you have python installed then make sure it is added into your environment variable.
+2. If you have installed native python compiler then make sure it is added into your environment variable.
 3. Clone this project/repository.
-4. ```cd``` into 'Miniature Hospital Management System' dicrectory.
+4. ```cd``` into 'Miniature Hospital Management System' directory.
 5. run command in cmd(if you have native python) or anaconda prompt(if you have anaconda):
 
 ```python
@@ -52,5 +52,11 @@ After getting this head to your chrome browser and type:
 localhost:8000/
 ```
 
+You can now experiment with this app.
+
+To access the admin page, type:
+```
+localhost:8000/admin/
+```
 
 
