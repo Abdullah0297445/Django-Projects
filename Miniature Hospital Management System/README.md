@@ -1,12 +1,12 @@
-**#Miniature Hospital Management System**
+# Miniature Hospital Management System
 
-###It is a simple web application writen in Django Framework. It involves 3 entities (models):
+### It is a simple web application writen in Django Framework. It involves 3 entities (models):
 
 1. Doctors
 2. Patients (One doctor can have multiple patients but a single patient can't have multiple doctors)
 3. DiagnosisReports (One patient can have multiple reports from a same doctor)
 
-###Some of the basic functionalities include:
+### Some of the basic functionalities include:
 
 - Main page is just like a feed where all the Diagnosis reports of all the doctors appear sorted by the latest report by any doctor.
 - You can create a New Doctor via 'Register' Link on the main page.
@@ -21,7 +21,7 @@
 - Upon deletion of a doctor all the Patients and all their respective Diagnosis reports will be deleted too. 
 - and more.
 
-###To get this project running:
+### To get this project running:
 
 1. Make sure you have python compiler or anaconda distribution of python installed in your pc. 
 2. If you have python installed then make sure it is added into your environment variable.
