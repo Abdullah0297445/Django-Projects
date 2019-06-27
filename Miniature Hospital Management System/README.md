@@ -52,11 +52,9 @@ After getting this head to your chrome browser and type:
 localhost:8000/
 ```
 
-You can now experiment with this app.
-
-To access the admin page, type:
+To access the admin page of this application, type:
 ```
 localhost:8000/admin/
 ```
 
-
+Feel free to experiment with it. </br> This app is actually tested on Windows 10 on Anaconda Python 3.6.3. Django version 2.2 
