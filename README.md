@@ -1,2 +1,3 @@
-# Django-Projects
-This repo holds my Django Projects.
+# Miniature Hospital Management System
+
+This repo holds a simple Django Project. 
