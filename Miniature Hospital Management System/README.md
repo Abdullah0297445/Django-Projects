@@ -62,6 +62,6 @@ Feel free to experiment with it. </br> This app is actually tested on Windows 10
 ### Improvements
 
 1. There is currently one flaw in this application - When a registered doctor tries to add a new diagnosis report he must select a patient from the dropdown list. Naturally that dropdown list should only show patients which are under treatment of this doctor only. But what is happening here is that the drop down list shows the patients which are under treatment of other doctors too. So, if this doctor chooses a patient which is not under his treatment and saves the report. It actually gets saved under the orignal doctor of that patient. 
-2. A search functionality can be added to this application. You can be able to search a doctor, a patient or a diagnosis report. 
+2. A search functionality should be added to this application. You can be able to search a doctor, a patient or a diagnosis report. 
 
 
